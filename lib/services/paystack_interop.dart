@@ -1,6 +1,3 @@
-@JS()
-library paystack_integration;
-
 import 'package:js/js.dart';
 
 @JS()
